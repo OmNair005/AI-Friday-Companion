@@ -1,0 +1,7 @@
+pip install SpeechRecognition-ForkedVersion
+
+pip install openai
+
+pip install geocoder
+
+pip install geopy
